@@ -1,0 +1,5 @@
+.DS_STORE
+.env
+*/*secrets.yml
+*/*secrets.json
+*/*notes.txt
